@@ -1,8 +1,16 @@
-### Hi there 👋
+# Monique Oliveira 
+
+Estudante 6ª turma da Generation Brasil;
+Curiosa e autodidata;
+A tecnologia é a conexão que une tudo e todos;
+Eu vim para criar laços e conexões.
+
+
 
 <!--
 **moniquejro/moniquejro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
