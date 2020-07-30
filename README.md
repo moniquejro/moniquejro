@@ -1,9 +1,9 @@
 # Monique Oliveira 
 
-Estudante 6ª turma da Generation Brasil;
-Curiosa e autodidata;
-A tecnologia é a conexão que une tudo e todos;
-Eu vim para criar laços e conexões.
+- Estudante 6ª turma da Generation Brasil;
+- Curiosa e autodidata;
+- A tecnologia é a conexão que une tudo e todos;
+- Eu vim para criar laços e conexões.
 
 
 
