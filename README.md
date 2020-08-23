@@ -5,6 +5,8 @@
 - :earth_americas: A tecnologia é a conexão que une tudo e todos;
 - :computer: Eu vim para criar laços e conexões.
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 
 
 <!--
