@@ -1,6 +1,6 @@
 # Monique Oliveira 
 
-- :book: Estudante 6ª turma da Generation Brasil;
+- :book: Estudante de linguagens de programação;
 - :rocket: Curiosa e autodidata;
 - :earth_americas: A tecnologia é a conexão que une tudo e todos;
 - :computer: Eu vim para criar laços e conexões.
